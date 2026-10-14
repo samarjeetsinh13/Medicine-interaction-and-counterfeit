@@ -1,0 +1,18 @@
+{
+  "interactions": [
+    {
+      "ingredientA": "sildenafil",
+      "ingredientB": "nitroglycerin",
+      "status": "CONTRAINDICATED",
+      "explanation": "Sildenafil with organic nitrates such as nitroglycerin can cause a dangerous drop in blood pressure. The cited prescribing information contraindicates this combination.",
+      "evidenceSource": "DailyMed sildenafil prescribing information: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dc1c1ddb-f16b-4d7a-aabe-cf8bdf8b7998"
+    },
+    {
+      "ingredientA": "simvastatin",
+      "ingredientB": "clarithromycin",
+      "status": "CONTRAINDICATED",
+      "explanation": "Clarithromycin can increase simvastatin exposure and raise the risk of myopathy, including rhabdomyolysis. The cited clarithromycin prescribing information contraindicates concomitant use.",
+      "evidenceSource": "DailyMed clarithromycin prescribing information: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a12e4d38-e0f8-4467-a26c-bb25a342aa92"
+    }
+  ]
+}
